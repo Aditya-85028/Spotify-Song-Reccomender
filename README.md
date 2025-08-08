@@ -89,7 +89,6 @@ spotify-song-recommender/
 ├── requirements.txt          # Python dependencies
 ├── config_template.py        # Template for configuration
 ├── main.py                   # Command-line interface
-├── spotify_recommender.ipynb # Main notebook
 ├── src/
 │   ├── __init__.py
 │   ├── spotify_client.py     # Spotify API client
@@ -99,8 +98,6 @@ spotify-song-recommender/
 ├── data/                     # Data storage
 │   ├── user_tracks.csv
 │   └── spotify_tracks.csv
-└── notebooks/                # Additional analysis notebooks
-    └── exploratory_analysis.ipynb
 ```
 
 ## 🔧 Configuration
